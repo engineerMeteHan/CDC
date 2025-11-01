@@ -1,0 +1,8 @@
+Vivado Simulator 2016.1
+Time resolution is 1 ps
+Failure: SIM DONE
+Time: 298750 ps  Iteration: 0  Process: /tb_clks/P_STIMULI  File: D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sim_1/new/tb_clks.vhd
+$finish called at time : 298750 ps : File "D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sim_1/new/tb_clks.vhd" Line 49
+Failure: SIM DONE
+Time: 598750 ps  Iteration: 0  Process: /tb_clks/P_STIMULI  File: D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sim_1/new/tb_clks.vhd
+$finish called at time : 598750 ps : File "D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sim_1/new/tb_clks.vhd" Line 49

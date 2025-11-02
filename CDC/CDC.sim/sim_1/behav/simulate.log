@@ -1,0 +1,5 @@
+Vivado Simulator 2016.1
+Time resolution is 1 ps
+Failure: SIM DONE
+Time: 370 ns  Iteration: 0  Process: /tb_cdc_flag/P_STIMULI  File: D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sim_1/new/tb_cdc_flag.vhd
+$finish called at time : 370 ns : File "D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sim_1/new/tb_cdc_flag.vhd" Line 111

@@ -1,2 +1,4 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sim_1/new/tb_clks.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity tb_clks
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sources_1/new/cdc_flag.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cdc_flag
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.srcs/sim_1/new/tb_cdc_flag.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_cdc_flag

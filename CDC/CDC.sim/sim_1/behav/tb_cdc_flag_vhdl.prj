@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../CDC.srcs/sources_1/new/cdc_flag.vhd"
+vhdl xil_defaultlib  "../../../CDC.srcs/sim_1/new/tb_cdc_flag.vhd"
+
+# Do not sort compile order
+nosort

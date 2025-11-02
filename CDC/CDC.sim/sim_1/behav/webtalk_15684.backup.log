@@ -2,11 +2,13 @@
 # Webtalk v2016.1 (64-bit)
 # SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
 # IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
-# Start of session at: Sat Nov 01 23:56:14 2025
-# Process ID: 17644
+# Start of session at: Sun Nov 02 16:20:46 2025
+# Process ID: 15684
 # Current directory: D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.sim/sim_1/behav
-# Command line: wbtcv.exe -mode batch -source D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.sim/sim_1/behav/xsim.dir/tb_clks_behav/webtalk/xsim_webtalk.tcl -notrace
+# Command line: wbtcv.exe -mode batch -source D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.sim/sim_1/behav/xsim.dir/tb_cdc_flag_behav/webtalk/xsim_webtalk.tcl -notrace
 # Log file: D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.sim/sim_1/behav/webtalk.log
 # Journal file: D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC/CDC.sim/sim_1/behav\webtalk.jou
 #-----------------------------------------------------------
 source D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic -notrace
+couldn't read file "D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Sun Nov 02 16:20:47 2025...

@@ -23,6 +23,9 @@ read_vhdl -library xil_defaultlib {
 foreach dcp [get_files -quiet -all *.dcp] {
   set_property used_in_implementation false $dcp
 }
+read_xdc {{D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC_Sample_Design/CDC_Sample_Design.srcs/constrs_1/new/top.xdc}}
+set_property used_in_implementation false [get_files {{D:/TECHNICAL/Embedded_Systems/HARDWARE/FPGA/fpga-bootcamp/VHDL/Basic Projects/Basic VHDL Codes/fpga-from-zero/Clock Domain Crossing/CDC_Sample_Design/CDC_Sample_Design.srcs/constrs_1/new/top.xdc}}]
+
 
 synth_design -top top -part xc7a100tcsg324-1
 
